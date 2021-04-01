@@ -1,6 +1,7 @@
 # tetris-basic-master
 
 tetris
+## Graphical Abstract
 
 ## Purpose of the software includes
 
