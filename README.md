@@ -15,6 +15,10 @@ tetris
 ## Development Process
 
 ## Members
+* Vivia P1908404 
+* Chloe P1902198
+* Wilson P1902131
+* Kelvin P1902150
 
 ## Schedule
 
