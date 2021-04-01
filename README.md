@@ -9,3 +9,17 @@ tetris
 ### Why this?
 
 ## Target Market
+
+## Software Development Plan
+
+## Development Process
+
+## Members
+
+## Schedule
+
+## Algorithm
+
+## Current status of your software
+
+## Future plan
