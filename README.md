@@ -20,6 +20,7 @@ tetris
 
 ## Algorithm
 
-## Current status of your software
+## Current status of software
 
 ## Future plan
+wqeiuqwhgiuhiufhqf
