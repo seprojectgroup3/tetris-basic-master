@@ -5,15 +5,23 @@ tetris
 
 ## Purpose of the software includes
 
-## Software Development Process
+### Software Development Process
 
 ### Why this?
 
-## Target Market
+### Target Market
 
 ## Software Development Plan
 
-## Development Process
+### Development Process
+
+### Schedule
+
+### Algorithm
+
+### Current status of software
+
+### Future plan
 
 ## Members
 * Vivia P1908404 
@@ -21,14 +29,6 @@ tetris
 * Wilson P1902131
 * Kelvin P1902150
 
-## Schedule
-
-## Algorithm
-
-## Current status of software
-
-## Future plan
-
-## Reference Citation
+### Reference Citation
 
 Demo:
