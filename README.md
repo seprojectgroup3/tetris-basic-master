@@ -61,5 +61,5 @@ Demo:https://www.youtube.com/watch?v=L5xjANXH8Ss
 
 In this software, we use html&CSS, and JavaScript to development it.
 
-Regarding the required equipment, our users need a PC as the required hardware, and the browser is the necessary software.*******
+Regarding the required equipment, our users need a PC as the required hardware, and the browser is the necessary software.
 
